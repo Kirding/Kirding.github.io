@@ -2,30 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.biego.cn/404.html</loc>
+    <loc>https://www.biego.cn/2019/03/03/hello-world/</loc>
     
-    <lastmod>2019-03-03T03:34:42.640Z</lastmod>
+    <lastmod>2019-03-03T02:52:14.048Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.biego.cn/search/index.html</loc>
+    <loc>https://www.biego.cn//404.html</loc>
     
-    <lastmod>2019-03-03T03:33:55.422Z</lastmod>
+    <lastmod>2018-10-03T23:11:16.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.biego.cn/about/index.html</loc>
     
-    <lastmod>2019-03-03T03:33:22.216Z</lastmod>
+    <lastmod>2018-10-03T23:11:16.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.biego.cn/2019/03/03/hello-world/</loc>
+    <loc>https://www.biego.cn/books/index.html</loc>
     
-    <lastmod>2019-03-03T02:52:14.048Z</lastmod>
+    <lastmod>2018-10-03T23:11:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.biego.cn/categories/index.html</loc>
+    
+    <lastmod>2018-10-03T23:11:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.biego.cn/links/index.html</loc>
+    
+    <lastmod>2018-10-03T23:11:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.biego.cn/repository/index.html</loc>
+    
+    <lastmod>2018-10-03T23:11:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.biego.cn/tags/index.html</loc>
+    
+    <lastmod>2018-10-03T23:11:16.000Z</lastmod>
     
   </url>
   
