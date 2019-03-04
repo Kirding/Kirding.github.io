@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.biego.cn/"/>
-  <updated>2019-03-03T02:52:14.048Z</updated>
+  <updated>2019-03-04T04:54:05.991Z</updated>
   <id>https://www.biego.cn/</id>
   
   <author>
@@ -17,19 +17,44 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>博客整改说明</title>
+    <link href="https://www.biego.cn/note1.html"/>
+    <id>https://www.biego.cn/note1.html</id>
+    <published>2019-03-04T03:02:32.637Z</published>
+    <updated>2019-03-04T04:54:05.991Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Mon Mar 04 2019 12:55:34 GMT+0800 (中国标准时间) --><h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>很长时间没有更新博客了，<br>这几天连续收到域名、主机续费通知，<br>懒得维护，果断放弃主机，续费了一下域名。（此域名还是挺喜欢的）<br>然后看了看，嗯，github免费托管系统还行，之前由于部署嫌麻烦，放弃了，<br>现在琢磨了一下，嗯，搞一波。</p><h4 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">1. 寻找hexo主题,选择对比后，定了Pure，干净，简洁。</span><br><span class="line">2. 正式部署，过程就不说了，真是“货比三家”，折腾了半天，到处报错，找各种解决方法，然并卵，最后发现这报错放这儿，并不影响使用，哎，强迫症我忍！</span><br><span class="line">3. 自定义域名，用的Aliyun CDN，感觉会好一点，上https。</span><br><span class="line">4. 完善主题。</span><br></pre></td></tr></table></figure><h4 id="小提"><a href="#小提" class="headerlink" title="小提"></a>小提</h4><p>本来看中一款ghonst主题，看有没有Hexo版的，结果发现一件奇怪的事：</p><blockquote><p>找到一篇博文，介绍的是美观的Hexo主题，然后正好提到了 <a href="https://github.com/TryGhost/Casper" rel="external nofollow noopener noreferrer" target="_blank">Casper</a> 这款主题，<br>然后我点链接进去发现还是ghost版本的，我透！真是奇葩.</p></blockquote><p>所以现在用的是<a href="https://github.com/cofess/hexo-theme-pure" rel="external nofollow noopener noreferrer" target="_blank">Pure</a></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon Mar 04 2019 12:55:34 GMT+0800 (中国标准时间) --&gt;&lt;h4 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h4&gt;&lt;p&gt;很长时间没有更新
+      
+    
+    </summary>
+    
+      <category term="日记" scheme="https://www.biego.cn/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="小记" scheme="https://www.biego.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://www.biego.cn/hello-world.html"/>
     <id>https://www.biego.cn/hello-world.html</id>
     <published>2019-03-03T02:52:14.048Z</published>
     <updated>2019-03-03T02:52:14.048Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Mon Mar 04 2019 10:50:46 GMT+0800 (中国标准时间) --><p>Welcome to <a href="https://hexo.io/" rel="external nofollow noopener noreferrer" target="_blank">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" rel="external nofollow noopener noreferrer" target="_blank">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" rel="external nofollow noopener noreferrer" target="_blank">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" rel="external nofollow noopener noreferrer" target="_blank">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" rel="external nofollow noopener noreferrer" target="_blank">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" rel="external nofollow noopener noreferrer" target="_blank">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" rel="external nofollow noopener noreferrer" target="_blank">Deployment</a></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Mon Mar 04 2019 12:55:34 GMT+0800 (中国标准时间) --><p>Welcome to <a href="https://hexo.io/" rel="external nofollow noopener noreferrer" target="_blank">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" rel="external nofollow noopener noreferrer" target="_blank">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" rel="external nofollow noopener noreferrer" target="_blank">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" rel="external nofollow noopener noreferrer" target="_blank">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" rel="external nofollow noopener noreferrer" target="_blank">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" rel="external nofollow noopener noreferrer" target="_blank">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" rel="external nofollow noopener noreferrer" target="_blank">Deployment</a></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon Mar 04 2019 10:50:46 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener noref
+        &lt;!-- build time:Mon Mar 04 2019 12:55:34 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener noref
       
     
     </summary>

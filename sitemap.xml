@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.biego.cn/note1.html</loc>
+    
+    <lastmod>2019-03-04T04:54:05.991Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.biego.cn/about/index.html</loc>
     
     <lastmod>2019-03-03T13:38:18.022Z</lastmod>
@@ -30,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://www.biego.cn/repository/index.html</loc>
-    
-    <lastmod>2018-10-03T23:11:16.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.biego.cn/links/index.html</loc>
     
     <lastmod>2018-10-03T23:11:16.000Z</lastmod>
@@ -45,6 +45,13 @@
   
   <url>
     <loc>https://www.biego.cn/categories/index.html</loc>
+    
+    <lastmod>2018-10-03T23:11:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.biego.cn/repository/index.html</loc>
     
     <lastmod>2018-10-03T23:11:16.000Z</lastmod>
     
